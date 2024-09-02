@@ -68,7 +68,7 @@ const TRANSLATIONS = {
 
   welcomeMessage: {
     part1:
-      "Welcome to FabriiQ, FabriiQ is an open-source AI tool by Mintplex Labs that turns anything into a trained chatbot you can query and chat with. FabriiQ is a BYOK (bring-your-own-keys) software so there is no subscription, fee, or charges for this software outside of the services you want to use with it.",
+      "Welcome to FabriiQ, FabriiQ is an AI tool by Tekmind Labs that turns anything into a trained chatbot you can query and chat with.",
     part2:
       "FabriiQ is the easiest way to put powerful AI products like OpenAi, GPT-4, LangChain, PineconeDB, ChromaDB, and other services together in a neat package with no fuss to increase your productivity by 100x.",
     part3:
@@ -84,8 +84,7 @@ const TRANSLATIONS = {
       "FabriiQ is more than a smarter Dropbox.\n\nFabriiQ offers two ways of talking with your data:\n\n<i>Query:</i> Your chats will return data or inferences found with the documents in your workspace it has access to. Adding more documents to the Workspace make it smarter! \n\n<i>Conversational:</i> Your documents + your on-going chat history both contribute to the LLM knowledge at the same time. Great for appending real-time text-based info or corrections and misunderstandings the LLM might have. \n\nYou can toggle between either mode \n<i>in the middle of chatting!</i>",
     user3: "Wow, this sounds amazing, let me try it out already!",
     part6: "Have Fun!",
-    starOnGithub: "Star on GitHub",
-    contact: "Contact Mintplex Labs",
+
   },
 
   "new-workspace": {
