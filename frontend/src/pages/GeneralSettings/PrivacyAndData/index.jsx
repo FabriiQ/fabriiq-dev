@@ -183,13 +183,7 @@ function TelemetryLogs({ settings }) {
             <b>no identifying</b> content, settings, chats, or other non-usage
             based information. To see the list of event tags collected you can
             look on{" "}
-            <a
-              href="https://github.com/search?q=repo%3AMintplex-Labs%2Fanything-llm%20.sendTelemetry(&type=code"
-              className="underline text-blue-400"
-              target="_blank"
-            >
-              Github here
-            </a>
+           
             .
           </p>
           <p className="text-white/80 text-xs rounded-lg w-96">
@@ -199,7 +193,7 @@ function TelemetryLogs({ settings }) {
             telemetry all we ask is to consider sending us feedback and thoughts
             so that we can continue to improve FabriiQ for you.{" "}
             <a
-              href="mailto:team@mintplexlabs.com"
+              href="mailto:team@fabriiq.com"
               className="underline text-blue-400"
               target="_blank"
             >
